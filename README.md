@@ -1,2 +1,2 @@
-# kandianshi
-恒星 看电视
+# stellar-watch-tv
+看电视
